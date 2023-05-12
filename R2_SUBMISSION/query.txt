@@ -1,0 +1,10 @@
+1> About secondaryTechnique - it is a multivalued attribute
+
+2> Duration & SilenceLevel - It was first designed to be visible when
+ nothing is created for specific duration and silenceLevel but later on 
+ in last update Samvid sir told us to invert how opacity works there.
+ Though, will increase opacity.
+
+3> Duration Range & Silence Range - It has to be added manually in airtable to show up as stated,
+    'Audio Duration' and 'silenceDuration' fields should be filled up, 'silenceDuration' field
+    is empty in airtable.
